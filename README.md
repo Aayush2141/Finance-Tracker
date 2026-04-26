@@ -2,7 +2,7 @@
 
 ExpenseOS is a premium, terminal-inspired personal finance tracker built for speed and aesthetic precision. It transforms mundane expense logging into a high-performance command-line experience, powered by AI for natural language processing.
 
-![ExpenseOS Preview](/Users/aayush/CAPSTONE PROJECT/ExpenseOs.png)
+![ExpenseOS Preview](./ExpenseOs.png)
 
 ## ✨ Features
 
